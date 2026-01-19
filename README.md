@@ -2,7 +2,7 @@
 
 M.Tech. - I Semester CSE(DS) 
 
-25BDS09 - DATA PREPARATION AND ANALYSIS LAB 
+25BDS09 - MACHINE LEARNING TECHNIQUES LAB
 
 
 NumPy (Numerical Python) is the foundational library for numerical computing. It provides support for large, multi-dimensional arrays and matrices (called ndarray objects) and a collection of high-level mathematical functions to operate on these arrays efficiently. It is much faster than using standard Python lists for numerical operations, due to its underlying C implementation and efficient memory usage.
