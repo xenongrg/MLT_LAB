@@ -1,6 +1,5 @@
 # ***INSTALL PACKAGES***
 # pip install matplotlib
-# pip install scikit-learn
 
 import pandas as pd
 import matplotlib.pyplot as plot

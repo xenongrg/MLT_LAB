@@ -1,8 +1,5 @@
 # ***INSTALL PACKAGES***
 # pip install numpy
-# pip install pandas
-# pip install matplotlib
-# pip install scikit-learn
 
 import numpy as np
 
