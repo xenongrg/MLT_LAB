@@ -13,16 +13,16 @@ le = LabelEncoder()
 df['City_Label'] = le.fit_transform(df['City'])
 
 # Splitting Dataset
-x = df[['Age', 'Salary']]
+X = df[['Age', 'Salary']]
 y = df['City_Label']
-x_train, x_test, y_train, y_test = train_test_split(
-    x,
+X_train, X_test, y_train, y_test = train_test_split(
+    X,
     y,
     test_size=0.2,
     random_state=1
 )
-print("Training Data:\n", x_train)
-print("\nTesting Data:\n", x_test)
+print("Training Data:\n", X_train)
+print("\nTesting Data:\n", X_test)
 
 
 # ***OUTPUT***
